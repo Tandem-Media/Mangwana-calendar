@@ -1,0 +1,14 @@
+# Real config — never commit secrets
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+{
+  "_comment": "Local development fallback. Do NOT commit real keys — add this file to .gitignore.",
+  "openai": {
+    "api_key": "sk-local-placeholder"
+  },
+  "wasender": {
+    "api_key": "ws-local-placeholder",
+    "phone_number_id": "1234567890"
+  },
+  "google": {
+    "calendar_id": "primary"
+  },
+  "server": {
+    "port": 5000
+  }
+}
